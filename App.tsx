@@ -112,21 +112,6 @@ const App: React.FC = () => {
             </div>
           </section>
 
-           {/* 8. DESTAQUE DOS PERFIS (Mini Card - Original) */}
-           <div className="w-full animate-fade-in-up delay-200">
-            <div className="flex flex-col gap-2 text-sm text-gray-600 bg-white/40 rounded-xl p-4 border border-white/60">
-              <div className="flex items-center gap-3">
-                <span className="text-lg">📍</span> Me acompanha no Instagram
-              </div>
-              <div className="flex items-center gap-3">
-                <span className="text-lg">🎥</span> Vídeos diários no TikTok
-              </div>
-              <div className="flex items-center gap-3">
-                <span className="text-lg">🔔</span> Aulas grátis no YouTube
-              </div>
-            </div>
-          </div>
-
           {/* ⭐ 4. Bloco “Seu melhor link” (botão em destaque) */}
           <section className="w-full mt-2 animate-fade-in-up delay-300">
             <p className="text-[#A88BD4] font-bold text-sm uppercase tracking-widest mb-3">💜 Meu material mais pedido</p>
