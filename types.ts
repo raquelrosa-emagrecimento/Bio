@@ -6,3 +6,9 @@ export interface Link {
   borderColor: string;
   pulse?: boolean;
 }
+
+export interface Testimonial {
+  id: number;
+  text: string;
+  author?: string;
+}
