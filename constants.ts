@@ -34,17 +34,17 @@ export const MAIN_CONTENT_LINKS = [
   {
     id: 1,
     title: "📘 Como vencer a compulsão alimentar",
-    url: "https://www.instagram.com/reel/DRajs94jIAy/?igsh=dnd5czJsOGhxZjdy"
+    url: "https://www.instagram.com/reel/DRajs94jIAy/?igsh=MXdmMXF1andpYmJtMA=="
   },
   {
     id: 2,
     title: "🥗 Receita simples para controlar a fome",
-    url: "https://www.instagram.com/reel/DRPf6kQEQuj/?igsh=MTV3azc4Mm00czI5NA=="
+    url: "https://www.instagram.com/reel/DRPf6kQEQuj/?igsh=OWk0cmNqbnRzbmRy"
   },
   {
     id: 3,
     title: "🧠 Hábitos simples",
-    url: "https://www.instagram.com/reel/DRRtK9OjrEe/?igsh=bTJza3gxM3VzZHdj"
+    url: "https://www.instagram.com/reel/DRRtK9OjrEe/?igsh=eDV6YmNqeGVmbW9p"
   }
 ];
 
@@ -52,16 +52,16 @@ export const VIRAL_LINKS = [
   {
     id: 1,
     title: "O vídeo que viralizou essa semana",
-    url: "https://www.instagram.com/reel/DRW5PD2kZrI/?igsh=dWE2M3RkYmM5OWdw"
+    url: "https://www.instagram.com/reel/DRW5PD2kZrI/?igsh=MTZpOWhtcDF5N2d5bg=="
   },
   {
     id: 2,
     title: "A dica que mais ajudou minhas seguidoras",
-    url: "https://www.instagram.com/reel/DRRtK9OjrEe/?igsh=bTJza3gxM3VzZHdj"
+    url: "https://www.instagram.com/reel/DRRtK9OjrEe/?igsh=eDV6YmNqeGVmbW9p"
   },
   {
     id: 3,
     title: "O método que tirou da compulsão em 3 passos",
-    url: "https://www.instagram.com/reel/DRPf6kQEQuj/?igsh=MTV3azc4Mm00czI5NA=="
+    url: "https://www.instagram.com/reel/DRPf6kQEQuj/?igsh=OWk0cmNqbnRzbmRy"
   }
 ];
